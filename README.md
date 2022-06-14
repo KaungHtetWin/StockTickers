@@ -35,8 +35,8 @@ Open ```*.xcworkspace``` and build.
 
 The app is written in UIKit and MVVM architecture.
 Use Combine framework to fetch and display data.
-Use Codable to decode JSON data and ##CSV.swift## for CSV reader.
-Use ##UICollectionViewCompositionalLayout## for data visualisation.
+Use Codable to decode JSON data and **CSV.swift** for CSV reader.
+Use **UICollectionViewCompositionalLayout** for data visualisation.
 
 ### Reference
 
